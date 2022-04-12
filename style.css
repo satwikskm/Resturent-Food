@@ -317,7 +317,7 @@ a{
 } */
 
 .food-description{
-    position: absolute;
+   position: absolute;
     bottom: 20px;
     left:10px;
     margin: 20px 20px;
@@ -421,15 +421,16 @@ a{
   }
   
   .copyright {
-    position: absolute;
+    
     bottom: 3rem;
     font-size: 1.7rem;
     font-weight: 200;
-    color: #eee;
+    color: rgb(0, 0, 0);
     letter-spacing: 0.1rem;
-    border-top: 0.1rem solid #888;
-    padding-top: 500px;
+   
+   
     
     width: 100%;
     text-align: center;
+    
   }
